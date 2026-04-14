@@ -1,0 +1,14 @@
+
+# Ignore node_modules and build directories
+node_modules/
+dist/
+.vscode/
+
+# Ignore environment files
+.env
+.env.*
+*.env
+
+
+
+
