@@ -13,15 +13,7 @@ const generateAccessAndRefreshtokens = async (userID) => {
         if (!user) {
             throw new ApiError(404, "User not found");
         }
-        // console.log(user)
-        // console.log(user instanceof User);
-
-        // if (typeof user.generateRefreshToken === "function") {
-        //     console.log("✅ generateAccessToken exists!");
-        // } else {
-        //     console.log("❌ Method does not exist!");
-        // }       
-
+            
         const accessToken = user.generateAccessToken()
         const refreshToken = user.generateRefreshToken()
 

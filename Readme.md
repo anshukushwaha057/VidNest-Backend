@@ -5,5 +5,5 @@
 # गुरुर ब्रह्मा गुरुर विष्णु गुरुर देवो महेश्वरः
 # गुरुः साक्षात्परब्रह्मा तस्मै श्री गुरुवे नम:
 
-## Author # Anshu Kushwaha 
-# Insta Link - 
+## Author -- Anshu Kushwaha 
+# Insta Link -- 
